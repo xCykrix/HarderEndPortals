@@ -1,0 +1,211 @@
+{
+  "variants": {
+    "eye_state=empty,facing=north": {
+      "model": "harderendportal:block/end_portal_empty",
+      "y": 180
+    },
+    "eye_state=empty,facing=east": {
+      "model": "harderendportal:block/end_portal_empty",
+      "y": 270
+    },
+    "eye_state=empty,facing=south": {
+      "model": "harderendportal:block/end_portal_empty"
+    },
+    "eye_state=empty,facing=west": {
+      "model": "harderendportal:block/end_portal_empty",
+      "y": 90
+    },
+
+    "eye_state=cursed_eye,facing=north": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 180
+    },
+    "eye_state=cursed_eye,facing=east": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 270
+    },
+    "eye_state=cursed_eye,facing=south": {
+      "model": "harderendportal:block/end_portal_fill"
+    },
+    "eye_state=cursed_eye,facing=west": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 90
+    },
+
+    "eye_state=chilled_eye,facing=north": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 180
+    },
+    "eye_state=chilled_eye,facing=east": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 270
+    },
+    "eye_state=chilled_eye,facing=south": {
+      "model": "harderendportal:block/end_portal_fill"
+    },
+    "eye_state=chilled_eye,facing=west": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 90
+    },
+
+    "eye_state=cracked_eye,facing=north": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 180
+    },
+    "eye_state=cracked_eye,facing=east": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 270
+    },
+    "eye_state=cracked_eye,facing=south": {
+      "model": "harderendportal:block/end_portal_fill"
+    },
+    "eye_state=cracked_eye,facing=west": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 90
+    },
+
+    "eye_state=lost_eye,facing=north": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 180
+    },
+    "eye_state=lost_eye,facing=east": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 270
+    },
+    "eye_state=lost_eye,facing=south": {
+      "model": "harderendportal:block/end_portal_fill"
+    },
+    "eye_state=lost_eye,facing=west": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 90
+    },
+
+    "eye_state=magical_eye,facing=north": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 180
+    },
+    "eye_state=magical_eye,facing=east": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 270
+    },
+    "eye_state=magical_eye,facing=south": {
+      "model": "harderendportal:block/end_portal_fill"
+    },
+    "eye_state=magical_eye,facing=west": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 90
+    },
+
+    "eye_state=warded_eye,facing=north": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 180
+    },
+    "eye_state=warded_eye,facing=east": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 270
+    },
+    "eye_state=warded_eye,facing=south": {
+      "model": "harderendportal:block/end_portal_fill"
+    },
+    "eye_state=warded_eye,facing=west": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 90
+    },
+
+    "eye_state=eldrich_eye,facing=north": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 180
+    },
+    "eye_state=eldrich_eye,facing=east": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 270
+    },
+    "eye_state=eldrich_eye,facing=south": {
+      "model": "harderendportal:block/end_portal_fill"
+    },
+    "eye_state=eldrich_eye,facing=west": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 90
+    },
+
+    "eye_state=withered_eye,facing=north": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 180
+    },
+    "eye_state=withered_eye,facing=east": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 270
+    },
+    "eye_state=withered_eye,facing=south": {
+      "model": "harderendportal:block/end_portal_fill"
+    },
+    "eye_state=withered_eye,facing=west": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 90
+    },
+
+    "eye_state=rotten_eye,facing=north": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 180
+    },
+    "eye_state=rotten_eye,facing=east": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 270
+    },
+    "eye_state=rotten_eye,facing=south": {
+      "model": "harderendportal:block/end_portal_fill"
+    },
+    "eye_state=rotten_eye,facing=west": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 90
+    },
+
+    "eye_state=alembic_eye,facing=north": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 180
+    },
+    "eye_state=alembic_eye,facing=east": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 270
+    },
+    "eye_state=alembic_eye,facing=south": {
+      "model": "harderendportal:block/end_portal_fill"
+    },
+    "eye_state=alembic_eye,facing=west": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 90
+    },
+
+    "eye_state=enchanted_eye,facing=north": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 180
+    },
+    "eye_state=enchanted_eye,facing=east": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 270
+    },
+    "eye_state=enchanted_eye,facing=south": {
+      "model": "harderendportal:block/end_portal_fill"
+    },
+    "eye_state=enchanted_eye,facing=west": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 90
+    },
+
+    "eye_state=golden_eye,facing=north": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 180
+    },
+    "eye_state=golden_eye,facing=east": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 270
+    },
+    "eye_state=golden_eye,facing=south": {
+      "model": "harderendportal:block/end_portal_fill"
+    },
+    "eye_state=golden_eye,facing=west": {
+      "model": "harderendportal:block/end_portal_fill",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "harderendportal",
+	"version": "${version}",
+	"name": "HarderEndPortal",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/harderendportal/638205775834530541.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"xcykrix.harderendportal.HarderEndPortal"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.15.6",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}
